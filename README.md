@@ -1,2 +1,0 @@
-# MinderaTownhall
-Created with CodeSandbox
